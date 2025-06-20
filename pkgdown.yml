@@ -2,4 +2,7 @@ pandoc: 3.1.11
 pkgdown: 2.1.3
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-06-20T23:01Z
+last_built: 2025-06-20T23:18Z
+urls:
+  reference: https://anna-steph.github.io/cascadiapkg/reference
+  article: https://anna-steph.github.io/cascadiapkg/articles
